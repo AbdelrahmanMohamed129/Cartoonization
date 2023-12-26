@@ -3,4 +3,6 @@ Dataset/Faces/*
 Dataset/NonFaces/*
 Dataset/Testing/*
 Dataset/Training/*
+Dataset2/*
+Dataset3/*
 *.pyc
