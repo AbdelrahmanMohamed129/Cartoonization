@@ -4,5 +4,6 @@ Dataset/NonFaces/*
 Dataset/Testing/*
 Dataset/Training/*
 Dataset2/*
-Dataset3/*
+Dataset3smol/*
+DatasetMerge/*
 *.pyc
